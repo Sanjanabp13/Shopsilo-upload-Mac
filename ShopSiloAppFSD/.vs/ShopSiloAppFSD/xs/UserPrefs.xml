@@ -1,0 +1,82 @@
+﻿<Properties StartupConfiguration="{E9E45618-877F-44EE-BD5B-3BC496C6592B}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopSiloAppFSD.Server/Interfaces/IInventoryRepository.cs">
+    <Files>
+      <File FileName="ShopSiloAppFSD.Server/appsettings.Development.json" />
+      <File FileName="ShopSiloAppFSD.Server/Program.cs" Line="34" Column="57" />
+      <File FileName="ShopSiloAppFSD.Server/appsettings.json" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/AauthController.cs" Line="135" Column="20" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/OrderController.cs" Line="242" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/OrderRepository.cs" Line="174" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/ProductRepository.cs" Line="614" Column="30" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/SellerRepository.cs" Line="35" Column="29" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/ProductController.cs" Line="957" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/IProductRepository.cs" Line="63" Column="2" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/ISellerRepository.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/SellerController.cs" Line="174" Column="49" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/CustomerDetailsRepository.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/ICustomerDetailsRepository.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/CustomerDetailController.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/DTO/CategoryDto.cs" />
+      <File FileName="ShopSiloAppFSD.Server/DTO/OrderItemDto.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/OrderItemController.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/OrderItemRepository.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/ShippingDetailController.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/CategoriesController.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/ICategoryRepository.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/CategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Models/ShopSiloDBContext.cs" Line="19" Column="53" />
+      <File FileName="ShopSiloAppFSD.Server/Models/Seller.cs" Line="16" Column="36" />
+      <File FileName="ShopSiloAppFSD.Server/DTO/SellerDto.cs" />
+      <File FileName="ShopSiloAppFSD.Server/Models/User.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Enums/OrderStatus.cs" Line="3" Column="17" />
+      <File FileName="ShopSiloAppFSD.Server/Models/Order.cs" Line="22" Column="48" />
+      <File FileName="ShopSiloAppFSD.Server/Models/AuditLog.cs" Line="9" Column="22" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/IOrderRepository.cs" Line="23" Column="36" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/AuditLogRepository.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Models/Address.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/DTO/RegisterRequestDto.cs" Line="8" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/DTO/CustomerDetailDto.cs" Line="11" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Models/CustomerDetail.cs" Line="14" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/AdminController.cs" Line="1" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Services/InvoiceService.cs" Line="48" Column="1" />
+      <File FileName="ShopSiloAppFSD.Server/Repository/InventoryRepository.cs" Line="649" Column="25" />
+      <File FileName="ShopSiloAppFSD.Server/Controllers/InventoryController.cs" Line="303" Column="42" />
+      <File FileName="ShopSiloAppFSD.Server/Interfaces/IInventoryRepository.cs" Line="17" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopSiloAppFSD" expanded="True">
+            <Node name="ShopSiloAppFSD.Server">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Interfaces" expanded="True">
+                <Node name="IInventoryRepository.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sanjanabiminiprakashbabu/Desktop/hexawarefolder/Hexaware-201 csharp codes/ShopSiloApp-main/ShopSiloAppFSD/ShopSiloAppFSD.Server/Repository/OrderRepository.cs" relfile="ShopSiloAppFSD.Server/Repository/OrderRepository.cs" line="123" column="1" />
+      <Breakpoint file="/Users/sanjanabiminiprakashbabu/Desktop/hexawarefolder/Hexaware-201 csharp codes/ShopSiloApp-main/ShopSiloAppFSD/ShopSiloAppFSD.Server/Repository/OrderRepository.cs" relfile="ShopSiloAppFSD.Server/Repository/OrderRepository.cs" line="130" column="1" />
+      <Breakpoint file="/Users/sanjanabiminiprakashbabu/Desktop/hexawarefolder/Hexaware-201 csharp codes/ShopSiloApp-main/ShopSiloAppFSD/ShopSiloAppFSD.Server/Repository/OrderRepository.cs" relfile="ShopSiloAppFSD.Server/Repository/OrderRepository.cs" line="214" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShopSiloAppFSD.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
